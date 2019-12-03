@@ -15,4 +15,4 @@ Run the script in privilege mode, such that sources.list could be edited
 
          # bash mirrorlist.sh
 
-<img src="Screenshot.png"> 
+<img src="Screenshot.png" width="60%" > 
