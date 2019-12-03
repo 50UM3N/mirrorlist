@@ -1,4 +1,4 @@
-# mirrorlist
+# Mirrorlist
 Script to change kali repository mirror
 
 http://http.kali.org redirects you to the closest available mirror based on your physical location.
@@ -11,6 +11,8 @@ You can find the original mirror list here [Kali Mirrors](https://http.kali.org/
 Kali Linux,
 
 # Usage
->Run the script in privilege mode, such that sources.list could be edited
+Run the script in privilege mode, such that sources.list could be edited
 
-> **$ bash mirrorlist.sh**
+         # bash mirrorlist.sh
+
+<img src="Screenshot.png"> 
